@@ -8,9 +8,9 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('AREA WOULD BE =' + (3 * 5).toString())
+basic.showString('Area would be' + (3 * 5).toString())
 
 basic.clearScreen()
 basic.pause(100)
 
-basic.showString('PERIMETER WOULD BE =' + (3 * 2 + 5 * 2 ).toString())
+basic.showString('Perimiter would be ' + (3 * 2 + 5 * 2).toString())
